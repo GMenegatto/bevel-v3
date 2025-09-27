@@ -1,0 +1,74 @@
+[
+  {
+    "link": "horatricolor.html",
+    "image": "assets/gif/HT_3.gif",
+    "alt": "Hora Tricolor",
+    "category": "Motion design",
+    "title": "Hora Tricolor",
+    "controlIcon": "assets/seta-d-direita.svg"
+  },
+  {
+    "link": "unisal.html",
+    "image": "assets/gif/Unisal.gif",
+    "alt": "Unisal",
+    "category": "Motion design",
+    "title": "Unisal",
+    "controlIcon": "assets/seta-d-direita.svg"
+  },
+  {
+    "link": "niponica.html",
+    "image": "assets/gif/niponica.gif",
+    "alt": "Toyota Nipônica",
+    "category": "Vídeo",
+    "title": "Toyota Nipônica",
+    "controlIcon": "assets/seta-d-direita.svg"
+  },
+  {
+    "link": "niponica.html",
+    "image": "assets/gif/niponica.gif",
+    "alt": "Hotel Solar - Porto de Galinhas",
+    "category": "Vídeo",
+    "title": "Hotel Solar",
+    "controlIcon": "assets/seta-d-direita.svg"
+  },
+  {
+    "link": "rio-recursos.html",
+    "image": "assets/gif/RioRecursos.gif",
+    "alt": "Rio Recursos",
+    "category": "Web design",
+    "title": "Rio Recursos",
+    "controlIcon": "assets/seta-d-direita.svg"
+  },
+  {
+    "link": "aquela-caixa.html",
+    "image": "assets/gif/AquelaCaixa.gif",
+    "alt": "Aquela Caixa",
+    "category": "Branding",
+    "title": "Aquela Caixa",
+    "controlIcon": "assets/seta-d-direita.svg"
+  },
+  {
+    "link": "contratos-personalizados.html",
+    "image": "assets/gif/Contratos_Personalizados.gif",
+    "alt": "Contratos Personalizados",
+    "category": "Web app",
+    "title": "Contratos Personalizados",
+    "controlIcon": "assets/seta-d-direita.svg"
+  },
+  {
+    "link": "brandlegalccn.html",
+    "image": "assets/gif/CCN.gif",
+    "alt": "Brand Legal CCN",
+    "category": "Identidade visual",
+    "title": "Brand Legal CCN",
+    "controlIcon": "assets/seta-d-direita.svg"
+  },
+  {
+    "link": "brandlegal.html",
+    "image": "assets/gif/BrandLegal.gif",
+    "alt": "Brand Legal",
+    "category": "Web design",
+    "title": "Brand Legal",
+    "controlIcon": "assets/seta-d-direita.svg"
+  }
+]

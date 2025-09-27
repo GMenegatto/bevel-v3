@@ -1,0 +1,479 @@
+@media only screen and (max-width: 1381px) {
+  .container {
+    max-width: 1200px !important;
+  }
+
+  .projects-row .two-color-text h2 {
+    font-size: 18px;
+  }
+  .title {
+    font-size: 28px;
+    line-height: 130%;
+    margin-bottom: 20px;
+  }
+
+  .section {
+    padding: 40px 0;
+  }
+
+  .servicos {
+    margin-top: 40px;
+  }
+
+  .divider {
+    margin-top: 40px;
+  }
+
+  .servicos .servico-imagem {
+    padding: 0 15px;
+
+    h3 {
+      font-size: 18px;
+    }
+  }
+
+  .container-sem-imagem {
+    row-gap: 20px;
+  }
+
+  .servicos {
+    .servico-imagem {
+      p {
+        font-size: 16px;
+        margin-top: 5px;
+        margin-bottom: 0;
+      }
+    }
+
+    .servico-imagem.sem-imagem .image {
+      max-width: 70px;
+    }
+  }
+
+  .sobre {
+  }
+
+  .subtitle {
+    font-size: 16px;
+    line-height: 130%;
+    margin-bottom: 20px;
+  }
+
+  p {
+  }
+
+  header {
+    .logo {
+      img {
+        max-width: 190px;
+      }
+    }
+
+    .container {
+      padding: 30px 5px;
+
+      nav {
+        a {
+          font-size: 16px;
+        }
+      }
+
+      .sign-in {
+        a {
+          font-size: 16px;
+        }
+      }
+    }
+  }
+
+  .button {
+    padding: 10px 15px;
+    font-size: 16px;
+  }
+
+  footer {
+    padding: 60px 0;
+
+    .flex {
+      gap: 70px;
+    }
+
+    .app {
+      p {
+        font-size: 14px;
+      }
+    }
+
+    .column {
+      a {
+        font-size: 12px;
+      }
+    }
+  }
+
+  //WEB
+
+  .isamotion {
+    .about {
+      h3 {
+        font-size: 62px;
+      }
+
+      p {
+        font-size: 16px;
+        margin-bottom: 0px;
+        padding-bottom: 0;
+      }
+    }
+  }
+
+  .client-header .info h1 {
+    font-size: 48px;
+  }
+
+  .project-subtitle {
+    font-size: 18px;
+  }
+
+  .carrossel {
+    .carrossel-image {
+      img {
+        width: 100% !important;
+      }
+    }
+    .column-info {
+      flex: 0;
+    }
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .container {
+    max-width: 360px !important;
+    flex-direction: column;
+  }
+
+  .test {
+    display: block;
+  }
+
+  header .container {
+    flex-direction: row;
+    padding: 10px 0;
+  }
+
+  .section {
+    padding: 40px 0;
+  }
+
+  .title {
+    text-align: center;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+
+  .subtitle {
+    text-align: center;
+    font-size: 18px;
+  }
+
+  header {
+    .social-media {
+      display: none;
+    }
+
+    .capa {
+      padding: 90px 0 120px 0;
+
+      h1 {
+        font-size: 28px;
+      }
+    }
+
+    .sign-in {
+      display: none !important;
+    }
+
+    nav {
+      display: none;
+      justify-content: center;
+      margin: 20px 0;
+      flex-wrap: wrap;
+      gap: 15px;
+
+      a {
+        text-align: center;
+        flex: 1;
+      }
+    }
+  }
+
+  footer {
+    padding: 80px 0;
+
+    .logo {
+      margin-bottom: 20px;
+    }
+
+    .app {
+      p {
+        margin-top: 20px;
+      }
+    }
+
+    .container {
+      align-items: center;
+
+      .flex {
+        flex-direction: column;
+        gap: 20px;
+      }
+
+      .column {
+        align-items: center;
+        text-align: center;
+
+        a {
+          display: flex;
+          justify-content: center;
+          font-size: 16px;
+        }
+      }
+    }
+  }
+
+  .title {
+    font-size: 42px;
+  }
+
+  .container {
+    padding: 0;
+  }
+
+  .scroll-indicator {
+    display: none;
+  }
+
+  // app
+
+  .projects-row {
+    padding: 10px 0;
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .banner {
+    padding-top: 20px;
+
+    .title {
+      margin-top: 20px;
+      margin-bottom: 10px;
+      font-size: 28px;
+    }
+  }
+
+  .button {
+    text-align: center;
+    max-width: 360px;
+  }
+
+  .banner {
+    .button {
+      margin-top: 40px !important;
+    }
+  }
+
+  .isamotion {
+    margin-top: -40px;
+
+    .about {
+      margin-top: -40px;
+    }
+
+    .container {
+      display: flex;
+      gap: 0px;
+      padding-bottom: 80px;
+    }
+  }
+
+  .getintouch .baloon {
+    max-width: 100%;
+
+    justify-content: center;
+    display: flex;
+
+    margin-bottom: 20px;
+
+    h5 {
+      font-size: 30px;
+      max-width: max-content;
+    }
+  }
+
+  .getintouch .info {
+    padding-left: 0;
+
+    .social {
+      font-size: 18px;
+    }
+  }
+
+  iframe {
+    max-height: 230px;
+  }
+
+  .client-header {
+    margin: 0;
+    .info {
+      padding: 0;
+      margin-bottom: 40px;
+      h1 {
+        font-size: 30px;
+      }
+    }
+  }
+
+  .project-subtitle {
+    padding: 0 20px;
+    margin-top: 20px;
+    font-size: 14px;
+
+    .container {
+      padding: 0 20px;
+    }
+  }
+
+  .may-also-like h3 {
+    font-size: 28px;
+  }
+
+  .may-also-like {
+    .related-container {
+      gap: 10px;
+    }
+  }
+
+  .getintouch {
+    padding: 40px 0;
+  }
+
+  footer {
+    padding: 30px 0;
+  }
+
+  .projects-row {
+    .project {
+      max-width: 100%;
+    }
+  }
+
+  lottie-player {
+    left: 0 !important;
+  }
+
+  .two-color-text h2 {
+    font-size: 26px;
+  }
+
+  .two-color-text h3 {
+    font-size: 16px;
+  }
+
+  .controller {
+    align-items: center;
+  }
+  .control {
+    width: 55px;
+    height: 55px;
+  }
+
+  .carrossel-image {
+    width: 100% !important;
+  }
+
+  .carrossel {
+    width: 360px;
+    margin: 0 auto;
+
+    .item-carrossel {
+      padding: 0;
+      flex-direction: column-reverse;
+    }
+
+    .two-color-text {
+      width: auto;
+
+      h2 {
+        font-size: 22px;
+      }
+      h3 {
+        font-size: 14px;
+      }
+    }
+
+    .bottom-info {
+      flex-direction: row-reverse;
+    }
+
+    .column-info {
+      flex-direction: row;
+      padding: 20px 15px;
+      min-height: 105px;
+      align-items: center;
+    }
+  }
+
+  .project-tile {
+    max-width: 100% !important;
+  }
+
+  .video-container {
+    height: 85%;
+  }
+
+  .video-text {
+    font-size: 18px;
+  }
+
+  .project {
+    margin-top: 20px;
+    padding-bottom: 0;
+
+    p {
+      font-size: 16px;
+    }
+
+    .project-title {
+      h3 {
+        font-size: 20px;
+      }
+      span {
+        font-size: 20px;
+      }
+    }
+  }
+
+  .projetos-follow {
+    padding-top: 0;
+    .ver-todos {
+      display: none;
+    }
+  }
+
+  .projetos-follow .projeto {
+    img {
+      filter: brightness(61%);
+    }
+    .info {
+      left: 30px;
+      display: none;
+    }
+    h3 {
+      font-size: 18px;
+    }
+    h4 {
+      font-size: 18px;
+    }
+  }
+}
