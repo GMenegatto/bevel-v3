@@ -24,8 +24,8 @@
     "controlIcon": "assets/seta-d-direita.svg"
   },
   {
-    "link": "niponica.html",
-    "image": "assets/gif/niponica.gif",
+    "link": "hotelsolar.html",
+    "image": "assets/gif/hotelsolar.gif",
     "alt": "Hotel Solar - Porto de Galinhas",
     "category": "Vídeo",
     "title": "Hotel Solar",
@@ -35,7 +35,7 @@
     "link": "rio-recursos.html",
     "image": "assets/gif/RioRecursos.gif",
     "alt": "Rio Recursos",
-    "category": "Web design",
+    "category": "Motion design",
     "title": "Rio Recursos",
     "controlIcon": "assets/seta-d-direita.svg"
   },
@@ -43,7 +43,7 @@
     "link": "aquela-caixa.html",
     "image": "assets/gif/AquelaCaixa.gif",
     "alt": "Aquela Caixa",
-    "category": "Branding",
+    "category": "Motion design",
     "title": "Aquela Caixa",
     "controlIcon": "assets/seta-d-direita.svg"
   },
@@ -51,7 +51,7 @@
     "link": "contratos-personalizados.html",
     "image": "assets/gif/Contratos_Personalizados.gif",
     "alt": "Contratos Personalizados",
-    "category": "Web app",
+    "category": "Motion design",
     "title": "Contratos Personalizados",
     "controlIcon": "assets/seta-d-direita.svg"
   },
@@ -59,7 +59,7 @@
     "link": "brandlegalccn.html",
     "image": "assets/gif/CCN.gif",
     "alt": "Brand Legal CCN",
-    "category": "Identidade visual",
+    "category": "Motion design",
     "title": "Brand Legal CCN",
     "controlIcon": "assets/seta-d-direita.svg"
   },
@@ -67,7 +67,7 @@
     "link": "brandlegal.html",
     "image": "assets/gif/BrandLegal.gif",
     "alt": "Brand Legal",
-    "category": "Web design",
+    "category": "Motion design",
     "title": "Brand Legal",
     "controlIcon": "assets/seta-d-direita.svg"
   }
