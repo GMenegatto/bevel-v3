@@ -3,39 +3,39 @@
     "link": "horatricolor.html",
     "image": "assets/gif/HT_3.gif",
     "alt": "Hora Tricolor",
-    "category": "Motion design",
+    "category": "Motion Design",
     "title": "Hora Tricolor",
     "controlIcon": "assets/seta-d-direita.svg"
   },
   {
     "link": "unisal.html",
     "image": "assets/gif/Unisal.gif",
-    "alt": "Unisal",
-    "category": "Motion design",
-    "title": "Unisal",
+    "alt": "Unisal - Vestibular 2025",
+    "category": "Motion Design",
+    "title": "Unisal - Vestibular 2025",
     "controlIcon": "assets/seta-d-direita.svg"
   },
   {
     "link": "niponica.html",
     "image": "assets/gif/niponica.gif",
-    "alt": "Toyota Nipônica",
-    "category": "Vídeo",
-    "title": "Toyota Nipônica",
+    "alt": "Toyota Nipônica - Pintura Express",
+    "category": "Institucional - Serviços",
+    "title": "Toyota Nipônica - Pintura Express",
     "controlIcon": "assets/seta-d-direita.svg"
   },
   {
     "link": "hotelsolar.html",
     "image": "assets/gif/hotelsolar.gif",
     "alt": "Hotel Solar - Porto de Galinhas",
-    "category": "Vídeo",
-    "title": "Hotel Solar",
+    "category": "Institucional",
+    "title": "Hotel Solar - Porto de Galinhas",
     "controlIcon": "assets/seta-d-direita.svg"
   },
   {
     "link": "rio-recursos.html",
     "image": "assets/gif/RioRecursos.gif",
     "alt": "Rio Recursos",
-    "category": "Motion design",
+    "category": "Motion Design",
     "title": "Rio Recursos",
     "controlIcon": "assets/seta-d-direita.svg"
   },
@@ -43,7 +43,7 @@
     "link": "aquela-caixa.html",
     "image": "assets/gif/AquelaCaixa.gif",
     "alt": "Aquela Caixa",
-    "category": "Motion design",
+    "category": "Motion Design",
     "title": "Aquela Caixa",
     "controlIcon": "assets/seta-d-direita.svg"
   },
@@ -51,7 +51,7 @@
     "link": "contratos-personalizados.html",
     "image": "assets/gif/Contratos_Personalizados.gif",
     "alt": "Contratos Personalizados",
-    "category": "Motion design",
+    "category": "Motion Design",
     "title": "Contratos Personalizados",
     "controlIcon": "assets/seta-d-direita.svg"
   },
@@ -59,7 +59,7 @@
     "link": "brandlegalccn.html",
     "image": "assets/gif/CCN.gif",
     "alt": "Brand Legal CCN",
-    "category": "Motion design",
+    "category": "Motion Design",
     "title": "Brand Legal CCN",
     "controlIcon": "assets/seta-d-direita.svg"
   },
@@ -67,7 +67,7 @@
     "link": "brandlegal.html",
     "image": "assets/gif/BrandLegal.gif",
     "alt": "Brand Legal",
-    "category": "Motion design",
+    "category": "Motion Design",
     "title": "Brand Legal",
     "controlIcon": "assets/seta-d-direita.svg"
   }

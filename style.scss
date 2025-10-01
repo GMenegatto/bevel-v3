@@ -94,7 +94,29 @@ details,
 embed,
 figure,
 figcaption,
-footer,
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer>,
 span,
 header,
 hgroup,
@@ -123,7 +145,29 @@ aside,
 details,
 figcaption,
 figure,
-footer,
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer>,
 header,
 hgroup,
 menu,
@@ -486,7 +530,29 @@ section {
   flex-direction: row;
 }
 
-footer {
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> {
   padding: 70px 0 70px 0;
 
   .container {
@@ -1051,10 +1117,10 @@ footer {
   justify-content: space-between;
 
   .two-color-text {
-    max-width: 70%;
+    max-width: 80%;
 
     h2 {
-      font-size: 28px;
+      font-size: 22px;
     }
     h3 {
       font-size: 18px;

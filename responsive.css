@@ -57,16 +57,104 @@
     padding: 10px 15px;
     font-size: 16px;
   }
-  footer {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> {
     padding: 60px 0;
   }
-  footer .flex {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .flex {
     gap: 70px;
   }
-  footer .app p {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .app p {
     font-size: 14px;
   }
-  footer .column a {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .column a {
     font-size: 12px;
   }
   .bevelmedia .about h3 {
@@ -144,29 +232,183 @@
     text-align: center;
     flex: 1;
   }
-  footer {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> {
     padding: 80px 0;
   }
-  footer .logo {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .logo {
     display: none;
     margin-bottom: 20px;
   }
-  footer .app p {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .app p {
     margin-top: 20px;
   }
-  footer .container {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .container {
     align-items: center;
     flex-direction: row;
   }
-  footer .container .flex {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .container .flex {
     flex-direction: column;
     gap: 20px;
   }
-  footer .container .column {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .container .column {
     align-items: center;
     text-align: center;
   }
-  footer .container .column a {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .container .column a {
     display: flex;
     justify-content: center;
     font-size: 16px;
@@ -183,10 +425,11 @@
   .projects-row {
     padding: 10px 0;
     flex-direction: column;
-    gap: 20px;
+    gap: 40px;
   }
   .banner {
-    padding-top: 20px;
+    padding-top: 0;
+    margin-top: -10px;
   }
   .banner .title {
     margin-top: 20px;
@@ -258,7 +501,29 @@
   .getintouch {
     padding: 40px 0;
   }
-  footer {
+  <footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> {
     padding: 30px 0;
   }
   .projects-row .project {
@@ -351,4 +616,11 @@
   .projetos-follow .projeto h4 {
     font-size: 18px;
   }
-}/*# sourceMappingURL=responsive.css.map */
+  .projects-row .control {
+    width: 40px;
+    height: 40px;
+  }
+  .projects-row .control img {
+    top: 0 !important;
+  }
+} /*# sourceMappingURL=responsive.css.map */

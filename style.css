@@ -88,7 +88,29 @@ details,
 embed,
 figure,
 figcaption,
-footer,
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer>,
 span,
 header,
 hgroup,
@@ -117,7 +139,29 @@ aside,
 details,
 figcaption,
 figure,
-footer,
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer>,
 header,
 hgroup,
 menu,
@@ -433,27 +477,159 @@ section {
   flex-direction: row;
 }
 
-footer {
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> {
   padding: 70px 0 70px 0;
   background: #080808;
   background: linear-gradient(93deg, rgb(8, 8, 8) 0%, rgb(65, 65, 65) 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr="#080808", endColorstr="#414141", GradientType=0 );
 }
-footer .container {
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .container {
   display: flex;
   justify-content: space-between;
 }
-footer .container .social-media i {
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .container .social-media i {
   font-size: 38px;
   color: white;
   padding: 5px;
 }
-footer .container h5 {
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .container h5 {
   margin-bottom: 10px;
   font-weight: bold;
 }
-footer .container h5,
-footer .container a {
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .container h5,
+<footer>
+      <div class="container">
+        <div class="logo">
+          <img src="assets/logo/logo_white_full.svg" alt="Bevel Media" />
+        </div>
+
+        <div class="social-media">
+          <a target="_blank" href="https://www.instagram.com/bevelmedia">
+            <i class="fa-brands fa-instagram"></i>
+          </a>
+          <a target="_blank" href="https://wa.me/5519997464193">
+            <i class="fa-brands fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contato">
+          <h5>Contato</h5>
+          <a href="mailto:contato@bevelmedia.com.br"
+            >contato@bevelmedia.com.br</a
+          >
+        </div>
+      </div>
+    </footer> .container a {
   font-size: 18px;
   color: white;
 }
@@ -496,7 +672,8 @@ footer .container a {
 .test button span:nth-child(1) {
   top: 0;
   transform: translateX(-50%) translateY(0);
-  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s, transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87);
+  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s,
+    transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87);
 }
 .test button span:nth-child(2) {
   top: 8px;
@@ -506,7 +683,8 @@ footer .container a {
 .test button span:last-child {
   top: 16px;
   transform: translateX(-50%) translateY(0);
-  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s, transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87);
+  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s,
+    transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87);
 }
 .test button.open span button {
   position: relative;
@@ -531,7 +709,8 @@ footer .container a {
 .test button.open span button span:nth-child(1) {
   top: 0;
   transform: translateX(-50%) translateY(0);
-  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s, transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87);
+  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s,
+    transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87);
 }
 .test button.open span button span:nth-child(2) {
   top: 8px;
@@ -541,12 +720,14 @@ footer .container a {
 .test button.open span button span:last-child {
   top: 16px;
   transform: translateX(-50%) translateY(0);
-  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s, transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87);
+  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s,
+    transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87);
 }
 .test button.open span button.open span:nth-child(1) {
   top: 50%;
   transform: translateX(-50%) translateY(0) rotate(45deg);
-  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87), transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s;
+  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87),
+    transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s;
 }
 .test button.open span button.open span:nth-child(2) {
   opacity: 0;
@@ -554,7 +735,8 @@ footer .container a {
 .test button.open span button.open span:last-child {
   top: 50%;
   transform: translateX(-50%) translateY(0) rotate(-45deg);
-  transition: bottom 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87), transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s;
+  transition: bottom 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87),
+    transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s;
 }
 .test button.open span .nav {
   position: fixed;
@@ -594,7 +776,8 @@ footer .container a {
 .test button.open span:nth-child(1) {
   top: 50%;
   transform: translateX(-50%) translateY(0) rotate(45deg);
-  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87), transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s;
+  transition: top 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87),
+    transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s;
 }
 .test button.open span:nth-child(2) {
   opacity: 0;
@@ -602,7 +785,8 @@ footer .container a {
 .test button.open span:last-child {
   top: 50%;
   transform: translateX(-50%) translateY(0) rotate(-45deg);
-  transition: bottom 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87), transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s;
+  transition: bottom 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87),
+    transform 0.3s cubic-bezier(0.21, 0.83, 0.26, 0.87) 0.3s;
 }
 .test .nav {
   top: 0;
@@ -894,10 +1078,10 @@ footer .container a {
   justify-content: space-between;
 }
 .projects-row .two-color-text {
-  max-width: 70%;
+  max-width: 80%;
 }
 .projects-row .two-color-text h2 {
-  font-size: 28px;
+  font-size: 22px;
 }
 .projects-row .two-color-text h3 {
   font-size: 18px;
@@ -943,7 +1127,11 @@ footer .container a {
   opacity: 0;
   transition: 0.3s ease;
   background: rgb(0, 0, 0);
-  background: linear-gradient(0deg, rgba(0, 0, 0, 0.7119222689) 0%, rgba(0, 0, 0, 0) 53%);
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.7119222689) 0%,
+    rgba(0, 0, 0, 0) 53%
+  );
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
   padding: 40px;
   display: flex;
@@ -1104,4 +1292,4 @@ footer .container a {
   color: white;
   font-size: 28px;
   font-weight: 500;
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
